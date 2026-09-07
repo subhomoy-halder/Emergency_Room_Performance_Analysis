@@ -155,7 +155,7 @@ The calendar spans **731 unique dates**, supporting consistent date filtering an
 
 The analytical model uses a relationship between:
 
-**Calendar Table → Hospital Emergency Room Data**
+**Calendar Table (Date Column) → Hospital Emergency Room Data (Admission Date Column)**
 
 The Calendar Table acts as the **one side dimension**, while the emergency room transaction table sits on the **many side** (1 : Many). This follows a dimensional modeling approach and prevents the dashboard from depending on manually maintained date logic.
 
