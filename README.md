@@ -233,6 +233,8 @@ The dashboard breaks patients into age groups from:
 
 Referral volume is also displayed by department, allowing management to see where emergency room patients are being referred.
 
+---
+
 ## Dashboard Home
 
 ![Dashboard Home](03_images_directory/dashboard_home_page.png)
